@@ -1,4 +1,4 @@
-# Inventory Management System — Week 6 Java Project
+# Inventory Management System
 
 ## 📦 Overview
 A console-based Inventory Management System built in Java demonstrating:
@@ -16,8 +16,6 @@ InventorySystem/
 │   ├── Product.java          → Data model (id, name, qty, price)
 │   ├── Inventory.java        → Business logic & operations
 │   └── InventorySystem.java  → Main class with menu UI
-├── run.bat                   → Windows compile & run script
-├── run.sh                    → Linux/Mac compile & run script
 └── README.md
 ```
 
