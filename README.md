@@ -45,8 +45,7 @@ InventorySystem/
 ### Windows
 ```
 Command Prompt:
-```
-cmd
+```cmd
 javac -d out src\*.java
 java -cp out src.InventorySystem
 ```
