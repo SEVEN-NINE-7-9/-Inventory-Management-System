@@ -52,11 +52,6 @@ java -cp out src.InventorySystem
 
 ### Linux / Mac
 ```bash
-chmod +x run.sh
-./run.sh
-```
-OR manually:
-```bash
 javac -d out src/*.java
 java -cp out src.InventorySystem
 ```
